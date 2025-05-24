@@ -1,0 +1,111 @@
+body{
+    background-color:black;
+    color: beige;
+    font-family: sans-serif;
+}
+header{
+    background-color: black;
+    position: sticky;
+    z-index: 100;
+    top:0;
+    padding: 60px 2px;
+}
+header h1{
+    float: inline-start;
+}
+header a{
+    text-decoration: none;
+    color: beige;
+}
+header a:hover{
+    color: rgb(253, 244, 164);
+}
+header ul{
+    list-style-type: none;
+}
+header li{
+    float: left;
+    margin-right: 20px;
+    font-size: 25px;
+    margin-top: 10px;
+}
+header ul{
+    float: right;
+}
+header ul a:hover{
+    text-decoration: underline;
+}
+main .fryingPan{
+    width: 50%;
+    margin: auto;
+    padding: 2%;
+}
+main #catchPhrase{
+    font-family: 'Playwrite IN';
+    font-size: 20px;
+    color: rgb(253, 244, 164);
+    text-align: center;
+}
+/* menu */
+main #menuContainer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+main #menuContainer section{
+    flex: 2;
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 0 40px;
+    text-align: center;
+}
+main h2{
+    text-align: center;
+}
+main section section img{
+    width: 40%;
+    margin: auto;
+    border-radius: 10px;
+}
+main section section h3{
+    color: rgb(253, 244, 164);
+}
+/* blog & about */
+main section p, main section article{
+    font-size: 20px;
+}
+main section h2+p, main section article{
+    margin: 0 10%;
+    text-align: justify;
+}
+/* blog */
+main section article a{
+    text-decoration: none;
+    color: rgb(253, 244, 164);
+}
+main section article .date{
+    font-size: small;
+}
+main section article .articleContainer img{
+    width: 20%;
+    height: auto;
+}
+main section article .articleContainer{
+    display: flex;
+    gap: 40px;
+    padding: 5%;
+}
+/* contact */
+main section .contactInfo{
+    margin: 0 30%;
+    text-align: center;
+}
+/* footer */
+footer{
+    padding: 20px 5px;
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+}
