@@ -3,7 +3,7 @@ An example website for an Indian restaurant, named Curry Symphony.
 
 **Link to project:** https://iwnelion.github.io/currysymphony/
 
-![alt tag](http://placecorgi.com/1200/650)
+![gif of the website sample](https://github.com/iwnelion/currysymphony/blob/main/imgs/curry.gif)
 
 ## How It's Made:
 
