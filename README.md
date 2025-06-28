@@ -23,7 +23,7 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **My personal website:** https://github.com/iwnelion/website, https://iwnelion.github.io/website/
 
-**# Etch a sketch board:** https://github.com/iwnelion/project_etch_a_sketch, https://iwnelion.github.io/project_etch_a_sketch/
+**Etch a sketch board:** https://github.com/iwnelion/project_etch_a_sketch, https://iwnelion.github.io/project_etch_a_sketch/
 
 **Calcularor:** https://github.com/iwnelion/project_calculator, https://iwnelion.github.io/project_calculator/
 
