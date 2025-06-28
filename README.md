@@ -1,4 +1,4 @@
-# Curry Sympony
+# Curry Symphony
 An example website for an Indian restaurant, named Curry Symphony.
 
 **Link to project:** https://iwnelion.github.io/currysymphony/
