@@ -25,6 +25,6 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Etch a sketch board:** https://github.com/iwnelion/project_etch_a_sketch, https://iwnelion.github.io/project_etch_a_sketch/
 
-**Calcularor:** https://github.com/iwnelion/project_calculator, https://iwnelion.github.io/project_calculator/
+**Calculator:** https://github.com/iwnelion/project_calculator, https://iwnelion.github.io/project_calculator/
 
 
